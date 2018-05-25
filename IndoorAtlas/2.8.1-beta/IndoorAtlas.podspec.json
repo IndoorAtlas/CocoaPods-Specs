@@ -1,6 +1,6 @@
 {
   "name": "IndoorAtlas",
-  "version": "2.8.0-beta",
+  "version": "2.8.1-beta",
   "summary": "IndoorAtlas SDK for iOS.",
   "description": "Use the IndoorAtlas SDK to have indoor positioning in your app.",
   "homepage": "http://docs.indooratlas.com/ios/",
@@ -39,6 +39,6 @@
     "z"
   ],
   "source": {
-    "http": "https://indooratlas-ltd.bintray.com/indooratlas-ios-sdk-public-beta/2ab4f64ac86eb13f-indooratlas-ios-sdk-2.8.0-beta-91.zip"
+    "http": "https://indooratlas-ltd.bintray.com/indooratlas-ios-sdk-public-beta/74c219c66dc94cd0-indooratlas-ios-sdk-2.8.1-beta-93.zip"
   }
 }
