@@ -22,7 +22,7 @@
 
   ],
   "preserve_paths": [
-    "indooratlas-ios-sdk/example"
+
   ],
   "frameworks": [
     "UIKit",
