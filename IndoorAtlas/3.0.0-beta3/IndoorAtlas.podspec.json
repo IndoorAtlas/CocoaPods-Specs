@@ -39,6 +39,6 @@
     "z"
   ],
   "source": {
-    "http": "https://indooratlas-ltd.bintray.com/indooratlas-ios-sdk-public-beta/465fcf2dabf1f6c8-indooratlas-ios-sdk-3.0.0-beta-239.zip"
+    "http": "https://dl.cloudsmith.io/public/indooratlas/indooratlas-ios-sdk-public-beta/raw/names/indooratlas-ios-sdk/versions/3.0.0-beta-239/465fcf2dabf1f6c8-indooratlas-ios-sdk-3.0.0-beta-239.zip"
   }
 }
