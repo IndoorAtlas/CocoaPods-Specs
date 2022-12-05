@@ -13,7 +13,7 @@
     "ios": "11.0"
   },
   "vendored_frameworks": [
-    "indooratlas-ios-sdk/IndoorAtlas.framework"
+    "indooratlas-ios-sdk/IndoorAtlas.xcframework"
   ],
   "resources": [
 
