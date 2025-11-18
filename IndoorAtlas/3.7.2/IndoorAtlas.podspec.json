@@ -1,6 +1,6 @@
 {
   "name": "IndoorAtlas",
-  "version": "3.7.2-beta",
+  "version": "3.7.2",
   "summary": "IndoorAtlas SDK for iOS.",
   "description": "Use the IndoorAtlas SDK to have indoor positioning in your app.",
   "homepage": "https://docs.indooratlas.com/",
@@ -35,6 +35,6 @@
     "z"
   ],
   "source": {
-    "http": "https://dl.cloudsmith.io/public/indooratlas/indooratlas-ios-sdk-public-beta/raw/names/indooratlas-ios-sdk/versions/3.7.2-beta/indooratlas-ios-sdk-3.7.2-release-d2d147c-142.zip"
+    "http": "https://dl.cloudsmith.io/public/indooratlas/indooratlas-ios-sdk/raw/names/indooratlas-ios-sdk/versions/3.7.2/indooratlas-ios-sdk-3.7.2-release-d2d147c-143.zip"
   }
 }
