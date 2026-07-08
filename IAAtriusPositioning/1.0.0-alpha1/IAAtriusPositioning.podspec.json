@@ -1,0 +1,37 @@
+{
+  "name": "IAAtriusPositioning",
+  "version": "1.0.0-alpha1",
+  "summary": "IndoorAtlas indoor positioning for Atrius (LocusLabs) maps, with train detection.",
+  "description": "Drives the blue dot on an Atrius (LocusLabs) 2D map using IndoorAtlas indoor positioning. Includes GPS-based train detection: while on a train the blue dot follows raw GPS, and indoor positioning resumes automatically at the next station.",
+  "homepage": "https://docs.indooratlas.com/",
+  "license": {
+    "type": "Proprietary",
+    "text": "Copyright (c) IndoorAtlas Ltd. All rights reserved. See LICENSE.md bundled inside IAAtriusPositioning.framework."
+  },
+  "authors": "IndoorAtlas Ltd.",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "vendored_frameworks": [
+    "IAAtriusPositioning.xcframework"
+  ],
+  "frameworks": [
+    "UIKit",
+    "CoreLocation",
+    "QuartzCore"
+  ],
+  "dependencies": {
+    "IndoorAtlas": [
+      "3.8.1"
+    ],
+    "LocusLabs-iOS-SDK": [
+      "4.2.4"
+    ],
+    "MapLibre": [
+      "6.25.0"
+    ]
+  },
+  "source": {
+    "http": "https://dl.cloudsmith.io/public/indooratlas/ios-public-alpha/raw/names/IAAtriusPositioning/versions/1.0.0-alpha1/IAAtriusPositioning-1.0.0-alpha1-827d29f.zip"
+  }
+}
